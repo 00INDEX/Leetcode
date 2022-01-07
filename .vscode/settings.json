@@ -44,5 +44,10 @@
         "stdexcept": "cpp",
         "streambuf": "cpp",
         "typeinfo": "cpp"
-    }
+    },
+    "java.project.sourcePaths": [
+        //"剑指 Ⅱ 094.最小回文分割",
+        //"剑指 Ⅱ 088.爬楼梯的最少成本"
+        "505.迷宫Ⅱ"
+    ]
 }
