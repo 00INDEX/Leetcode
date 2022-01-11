@@ -13,7 +13,7 @@
 #include <numeric>
 
 int leastBricks(vector<vector<int>>& wall){
-    
+    return 1;
 }
 
 int main(){
